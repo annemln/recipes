@@ -4,3 +4,4 @@ chickpeas
 garlic
 olive oil 
 salt 
+lemon
