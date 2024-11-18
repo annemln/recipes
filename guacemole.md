@@ -6,3 +6,4 @@
 *onion
 ##Instructions
 * put one avocado into a bowl.
+* crush the avocados
