@@ -5,3 +5,5 @@ garlic
 olive oil 
 salt 
 lemon
+
+Mix ingredients well
